@@ -1,4 +1,4 @@
-# analyze-between-two-images (or multiple images)
+# analyze-between-images (or multiple images)
 Detect and visualize differences between images with `OpenCV` and the SSIM method. The images are compared with the first provided image.
 
 ### Example
